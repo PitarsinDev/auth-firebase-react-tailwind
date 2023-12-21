@@ -1,1 +1,1 @@
-# react-firebase-v9-auth
+# auth-firebase-react-tailwind
